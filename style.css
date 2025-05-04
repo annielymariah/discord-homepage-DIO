@@ -156,6 +156,7 @@ section h3 {
 @media (min-width: 768px) {
   header {
     text-align: center;
+    height: 459px;
   }
 
   .header {
@@ -181,6 +182,7 @@ section h3 {
 
   .header__buttons {
     display: flex;
+    flex-direction: row;
     gap: 24px;
   }
 
